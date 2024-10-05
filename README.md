@@ -94,6 +94,38 @@ To complement the primary components of the stack, several additional tools were
 - **VSCODE**: For documentation and exploratory data analysis, I used **Jupyter Notebook**. This tool enables the integration of code, visualizations, and narrative text in a single document, making it easy to present insights and findings to stakeholders. It serves as a living document that evolves with the project, allowing for clear communication of results and methodologies.
 
   ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(123).png )
+   ![Alt Text]( )
+   ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(123).png )
+   ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(123).png )
+
+  
+
+### Results and Outcomes
+The successful implementation of the ETL pipeline achieved the following outcomes:
+- **Reduced Data Retrieval Time**: Enabled near real-time reporting for stakeholders.
+- **Improved Data Accuracy**: Ensured consistency across reports, enhancing trust in the data.
+- **Enhanced Decision-Making**: Provided stakeholders with easy access to consolidated data for informed decisions.
+
+### Challenges Faced
+- **Data Quality**: Ensured accuracy and reliability of extracted data by implementing rigorous validation checks during the transformation phase.
+- **Schema Changes**: Managed database schema alterations through careful planning and established a version control system to mitigate risks.
+
+### Conclusion
+This project showcased the ability to automate and streamline data processes, significantly improving data accessibility and quality. By integrating **Mage AI**, **DBT**, and **PostgreSQL**, I successfully built a robust ETL pipeline that is a valuable asset for the organization.
+
+### Future Work
+Future enhancements could include:
+- Implementing data monitoring solutions to proactively identify issues.
+- Expanding the pipeline to integrate additional data sources.
+- Developing dynamic reporting dashboards using visualization tools.
+
+### Appendix
+**References**:
+- Mage AI Documentation
+- DBT Documentation
+- PostgreSQL Documentation
+
+**Acknowledgments**: Special thanks to my team and mentors for their support and guidance throughout this project.
 
 
 
