@@ -93,7 +93,7 @@ To complement the primary components of the stack, several additional tools were
 
 - **VSCODE**: For documentation and exploratory data analysis, I used **Jupyter Notebook**. This tool enables the integration of code, visualizations, and narrative text in a single document, making it easy to present insights and findings to stakeholders. It serves as a living document that evolves with the project, allowing for clear communication of results and methodologies.
 
-  ![Alt Text]( )
+  ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(123).png )
 
 
 
