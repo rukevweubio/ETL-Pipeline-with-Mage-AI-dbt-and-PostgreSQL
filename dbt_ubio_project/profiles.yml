@@ -1,0 +1,26 @@
+dbt_ubio_project:
+  outputs:
+    dev:
+      dbname: production
+      host: localhost
+      pass: '1'
+      port: 5432
+      schema: staging
+      threads: 4
+      type: postgres
+      user: postgres
+  target: dev
+# default:
+#   outputs:
+#     dev:
+#       dataset: dbt_dataproject
+#       job_execution_timeout_seconds: 300
+#       job_retries: 1
+#       keyfile: C:\Users\ubior\Downloads\zoomdatacampservice-b99c3cc86645.json
+#       location: EU
+#       method: service-account
+#       priority: interactive
+#       project: zoomdatacampservice
+#       threads: 4
+#       type: bigquery
+ 

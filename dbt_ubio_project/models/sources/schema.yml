@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: pulic
+    database: production  # Your database name
+    schema: public        # Your schema name
+    tables:
+      - name: customertable  # The name of your table
+        description: "A table containing customer data"
