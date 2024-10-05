@@ -125,7 +125,7 @@ Future enhancements could include:
 - DBT Documentation
 - PostgreSQL Documentation
 
-**Acknowledgments**: Special thanks to my team and mentors for their support and guidance throughout this project.
+
 
 
 
