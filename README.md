@@ -97,7 +97,7 @@ To complement the primary components of the stack, several additional tools were
    ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(125).png )
    ![Alt Text](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/Screenshot%20(128).png )
   data
-   ![data diagram](https://github.com/rukevweubio/ETL-Pipeline-with-Mage-AI-dbt-and-PostgreSQL/blob/master/data%20archestiture.jpg)
+
 
   
 
